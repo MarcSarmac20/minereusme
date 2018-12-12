@@ -1,0 +1,69 @@
+.showcase {
+	padding: 350px;
+	margin-bottom: 0px;
+	background-image: url(../images/MarcSarmac.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	box-shadow: 0 0 20px #060605;
+	background-attachment:fixed;
+}
+.last {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 20px;
+	margin-top: 20px;
+	text-align: center;
+}
+.last h2{
+	color: white;
+	text-align: center;
+	background: #131212;
+	padding: 10px 270px;
+}
+ h2 {
+	color: white;
+	text-align: center;
+	background: #131212;
+	padding: 10px 150px;
+}
+a {	
+	text-decoration:none;
+	list-style: none;
+}
+.main-article {
+	margin-bottom: 0px;
+}
+.menu {
+	background: #131212;
+	color: white;
+	text-align:center;
+	margin:0px;
+}
+.e {
+	margin-left: 0px;
+	background: white;
+}
+.Flight {
+	margin: 30px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 20px;
+	
+}
+img {
+	border-radius: 50%;
+}
+.box {
+	background: white;
+	margin-left: 520px;
+	width: 300px;
+	height: 1px;
+}
+
+body {
+	font-family: century gothic;
+}
+.1st, .3rd {
+	padding:100px;
+	
